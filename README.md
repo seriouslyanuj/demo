@@ -11,3 +11,4 @@ This is a simple Spring Boot application that fetches loan account details from 
 
 ![Dashboard Screenshot](Screenshot%20(258).png)
 ![Dashboard Screenshot](Screenshot%20(259).png)
+![Dashboard Screenshot](Screenshot%20(260).png)
